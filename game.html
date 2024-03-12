@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Game</title>
+    <link rel="stylesheet" href="./style.css" />
+  </head>
+  <body>
+    <div class="score">
+      <span id="player">0</span> - <span id="opponent">0</span>
+    </div>
+
+    <div class="playarea">
+      <div class="player box">
+        <h1>You</h1>
+        <div class="optionimage"></div>
+
+        <div class="options">
+          <img id="rock" src="./assets/rock-logo.png" alt="" />
+          <img id="paper" src="./assets/paper-logo.png" alt="" />
+          <img id="scissors" src="./assets/scissors-logo.png" alt="" />
+        </div>
+      </div>
+      <div>
+        <img src="./assets/vs.png" alt="" />
+      </div>
+      <div class="opponent box">
+        <h1>Comp</h1>
+        <div class="compimage">
+          <img src="./assets/.png" alt="" />
+        </div>
+      </div>
+    </div>
+    <script src="./game.js"></script>
+  </body>
+</html>
