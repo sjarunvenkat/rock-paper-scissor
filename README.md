@@ -1,21 +1,9 @@
 # Rock Paper Scissors Boilerplate
 
-This is a repository of game development lab, where students learn to build a Rock Paper Scissors game using HTML, CSS & JS.
+## Output
+![](https://github.com/sjarunvenkat/rock-paper-scissor/blob/main/rps%20output.gif)
 
-## Here is the expected output
-
-[Working of game](https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/rock-paper-scissors-game.gif)
-
-### Starting page of Rock Paper Scissors game
-
-![](https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/rock-paper-scissors-home-screen.png)
-
-### Game page of Rock Paper Scissors game
-
-![](https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/rock-paper-scissors-game-screen.png)
-
-Fork this repo and get started with the project.
-
+# Instructions
 ## Additional details:
 
 The font used is Poppins 
